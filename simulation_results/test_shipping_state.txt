@@ -1,0 +1,510 @@
+00:00:00:000
+State for model shipping is {"amount_clean":0, "time_until_next_shipment":"00:00:00:000"}
+State for model input_reader is next time: 00:00:00:000
+00:00:00:000
+State for model shipping is {"amount_clean":0, "time_until_next_shipment":"01:00:00:000"}
+State for model input_reader is next time: 00:00:00:000
+00:00:00:000
+State for model shipping is {"amount_clean":100000, "time_until_next_shipment":"01:00:00:000"}
+State for model input_reader is next time: inf
+01:00:00:000
+State for model shipping is {"amount_clean":99400, "time_until_next_shipment":"01:00:00:000"}
+State for model input_reader is next time: inf
+02:00:00:000
+State for model shipping is {"amount_clean":98800, "time_until_next_shipment":"01:00:00:000"}
+State for model input_reader is next time: inf
+03:00:00:000
+State for model shipping is {"amount_clean":98200, "time_until_next_shipment":"01:00:00:000"}
+State for model input_reader is next time: inf
+04:00:00:000
+State for model shipping is {"amount_clean":97600, "time_until_next_shipment":"01:00:00:000"}
+State for model input_reader is next time: inf
+05:00:00:000
+State for model shipping is {"amount_clean":97000, "time_until_next_shipment":"01:00:00:000"}
+State for model input_reader is next time: inf
+06:00:00:000
+State for model shipping is {"amount_clean":96400, "time_until_next_shipment":"01:00:00:000"}
+State for model input_reader is next time: inf
+07:00:00:000
+State for model shipping is {"amount_clean":95800, "time_until_next_shipment":"01:00:00:000"}
+State for model input_reader is next time: inf
+08:00:00:000
+State for model shipping is {"amount_clean":95200, "time_until_next_shipment":"01:00:00:000"}
+State for model input_reader is next time: inf
+09:00:00:000
+State for model shipping is {"amount_clean":94600, "time_until_next_shipment":"01:00:00:000"}
+State for model input_reader is next time: inf
+10:00:00:000
+State for model shipping is {"amount_clean":94000, "time_until_next_shipment":"01:00:00:000"}
+State for model input_reader is next time: inf
+11:00:00:000
+State for model shipping is {"amount_clean":93400, "time_until_next_shipment":"01:00:00:000"}
+State for model input_reader is next time: inf
+12:00:00:000
+State for model shipping is {"amount_clean":92800, "time_until_next_shipment":"01:00:00:000"}
+State for model input_reader is next time: inf
+13:00:00:000
+State for model shipping is {"amount_clean":92200, "time_until_next_shipment":"01:00:00:000"}
+State for model input_reader is next time: inf
+14:00:00:000
+State for model shipping is {"amount_clean":91600, "time_until_next_shipment":"01:00:00:000"}
+State for model input_reader is next time: inf
+15:00:00:000
+State for model shipping is {"amount_clean":91000, "time_until_next_shipment":"01:00:00:000"}
+State for model input_reader is next time: inf
+16:00:00:000
+State for model shipping is {"amount_clean":90400, "time_until_next_shipment":"01:00:00:000"}
+State for model input_reader is next time: inf
+17:00:00:000
+State for model shipping is {"amount_clean":89800, "time_until_next_shipment":"01:00:00:000"}
+State for model input_reader is next time: inf
+18:00:00:000
+State for model shipping is {"amount_clean":89200, "time_until_next_shipment":"01:00:00:000"}
+State for model input_reader is next time: inf
+19:00:00:000
+State for model shipping is {"amount_clean":88600, "time_until_next_shipment":"01:00:00:000"}
+State for model input_reader is next time: inf
+20:00:00:000
+State for model shipping is {"amount_clean":88000, "time_until_next_shipment":"01:00:00:000"}
+State for model input_reader is next time: inf
+21:00:00:000
+State for model shipping is {"amount_clean":87400, "time_until_next_shipment":"01:00:00:000"}
+State for model input_reader is next time: inf
+22:00:00:000
+State for model shipping is {"amount_clean":86800, "time_until_next_shipment":"01:00:00:000"}
+State for model input_reader is next time: inf
+23:00:00:000
+State for model shipping is {"amount_clean":86200, "time_until_next_shipment":"01:00:00:000"}
+State for model input_reader is next time: inf
+24:00:00:000
+State for model shipping is {"amount_clean":85600, "time_until_next_shipment":"01:00:00:000"}
+State for model input_reader is next time: inf
+25:00:00:000
+State for model shipping is {"amount_clean":85000, "time_until_next_shipment":"01:00:00:000"}
+State for model input_reader is next time: inf
+26:00:00:000
+State for model shipping is {"amount_clean":84400, "time_until_next_shipment":"01:00:00:000"}
+State for model input_reader is next time: inf
+27:00:00:000
+State for model shipping is {"amount_clean":83800, "time_until_next_shipment":"01:00:00:000"}
+State for model input_reader is next time: inf
+28:00:00:000
+State for model shipping is {"amount_clean":83200, "time_until_next_shipment":"01:00:00:000"}
+State for model input_reader is next time: inf
+29:00:00:000
+State for model shipping is {"amount_clean":82600, "time_until_next_shipment":"01:00:00:000"}
+State for model input_reader is next time: inf
+30:00:00:000
+State for model shipping is {"amount_clean":82000, "time_until_next_shipment":"01:00:00:000"}
+State for model input_reader is next time: inf
+31:00:00:000
+State for model shipping is {"amount_clean":81400, "time_until_next_shipment":"01:00:00:000"}
+State for model input_reader is next time: inf
+32:00:00:000
+State for model shipping is {"amount_clean":80800, "time_until_next_shipment":"01:00:00:000"}
+State for model input_reader is next time: inf
+33:00:00:000
+State for model shipping is {"amount_clean":80200, "time_until_next_shipment":"01:00:00:000"}
+State for model input_reader is next time: inf
+34:00:00:000
+State for model shipping is {"amount_clean":79600, "time_until_next_shipment":"01:00:00:000"}
+State for model input_reader is next time: inf
+35:00:00:000
+State for model shipping is {"amount_clean":79000, "time_until_next_shipment":"01:00:00:000"}
+State for model input_reader is next time: inf
+36:00:00:000
+State for model shipping is {"amount_clean":78400, "time_until_next_shipment":"01:00:00:000"}
+State for model input_reader is next time: inf
+37:00:00:000
+State for model shipping is {"amount_clean":77800, "time_until_next_shipment":"01:00:00:000"}
+State for model input_reader is next time: inf
+38:00:00:000
+State for model shipping is {"amount_clean":77200, "time_until_next_shipment":"01:00:00:000"}
+State for model input_reader is next time: inf
+39:00:00:000
+State for model shipping is {"amount_clean":76600, "time_until_next_shipment":"01:00:00:000"}
+State for model input_reader is next time: inf
+40:00:00:000
+State for model shipping is {"amount_clean":76000, "time_until_next_shipment":"01:00:00:000"}
+State for model input_reader is next time: inf
+41:00:00:000
+State for model shipping is {"amount_clean":75400, "time_until_next_shipment":"01:00:00:000"}
+State for model input_reader is next time: inf
+42:00:00:000
+State for model shipping is {"amount_clean":74800, "time_until_next_shipment":"01:00:00:000"}
+State for model input_reader is next time: inf
+43:00:00:000
+State for model shipping is {"amount_clean":74200, "time_until_next_shipment":"01:00:00:000"}
+State for model input_reader is next time: inf
+44:00:00:000
+State for model shipping is {"amount_clean":73600, "time_until_next_shipment":"01:00:00:000"}
+State for model input_reader is next time: inf
+45:00:00:000
+State for model shipping is {"amount_clean":73000, "time_until_next_shipment":"01:00:00:000"}
+State for model input_reader is next time: inf
+46:00:00:000
+State for model shipping is {"amount_clean":72400, "time_until_next_shipment":"01:00:00:000"}
+State for model input_reader is next time: inf
+47:00:00:000
+State for model shipping is {"amount_clean":71800, "time_until_next_shipment":"01:00:00:000"}
+State for model input_reader is next time: inf
+48:00:00:000
+State for model shipping is {"amount_clean":71200, "time_until_next_shipment":"01:00:00:000"}
+State for model input_reader is next time: inf
+49:00:00:000
+State for model shipping is {"amount_clean":70600, "time_until_next_shipment":"01:00:00:000"}
+State for model input_reader is next time: inf
+50:00:00:000
+State for model shipping is {"amount_clean":70000, "time_until_next_shipment":"01:00:00:000"}
+State for model input_reader is next time: inf
+51:00:00:000
+State for model shipping is {"amount_clean":69400, "time_until_next_shipment":"01:00:00:000"}
+State for model input_reader is next time: inf
+52:00:00:000
+State for model shipping is {"amount_clean":68800, "time_until_next_shipment":"01:00:00:000"}
+State for model input_reader is next time: inf
+53:00:00:000
+State for model shipping is {"amount_clean":68200, "time_until_next_shipment":"01:00:00:000"}
+State for model input_reader is next time: inf
+54:00:00:000
+State for model shipping is {"amount_clean":67600, "time_until_next_shipment":"01:00:00:000"}
+State for model input_reader is next time: inf
+55:00:00:000
+State for model shipping is {"amount_clean":67000, "time_until_next_shipment":"01:00:00:000"}
+State for model input_reader is next time: inf
+56:00:00:000
+State for model shipping is {"amount_clean":66400, "time_until_next_shipment":"01:00:00:000"}
+State for model input_reader is next time: inf
+57:00:00:000
+State for model shipping is {"amount_clean":65800, "time_until_next_shipment":"01:00:00:000"}
+State for model input_reader is next time: inf
+58:00:00:000
+State for model shipping is {"amount_clean":65200, "time_until_next_shipment":"01:00:00:000"}
+State for model input_reader is next time: inf
+59:00:00:000
+State for model shipping is {"amount_clean":64600, "time_until_next_shipment":"01:00:00:000"}
+State for model input_reader is next time: inf
+60:00:00:000
+State for model shipping is {"amount_clean":64000, "time_until_next_shipment":"01:00:00:000"}
+State for model input_reader is next time: inf
+61:00:00:000
+State for model shipping is {"amount_clean":63400, "time_until_next_shipment":"01:00:00:000"}
+State for model input_reader is next time: inf
+62:00:00:000
+State for model shipping is {"amount_clean":62800, "time_until_next_shipment":"01:00:00:000"}
+State for model input_reader is next time: inf
+63:00:00:000
+State for model shipping is {"amount_clean":62200, "time_until_next_shipment":"01:00:00:000"}
+State for model input_reader is next time: inf
+64:00:00:000
+State for model shipping is {"amount_clean":61600, "time_until_next_shipment":"01:00:00:000"}
+State for model input_reader is next time: inf
+65:00:00:000
+State for model shipping is {"amount_clean":61000, "time_until_next_shipment":"01:00:00:000"}
+State for model input_reader is next time: inf
+66:00:00:000
+State for model shipping is {"amount_clean":60400, "time_until_next_shipment":"01:00:00:000"}
+State for model input_reader is next time: inf
+67:00:00:000
+State for model shipping is {"amount_clean":59800, "time_until_next_shipment":"01:00:00:000"}
+State for model input_reader is next time: inf
+68:00:00:000
+State for model shipping is {"amount_clean":59200, "time_until_next_shipment":"01:00:00:000"}
+State for model input_reader is next time: inf
+69:00:00:000
+State for model shipping is {"amount_clean":58600, "time_until_next_shipment":"01:00:00:000"}
+State for model input_reader is next time: inf
+70:00:00:000
+State for model shipping is {"amount_clean":58000, "time_until_next_shipment":"01:00:00:000"}
+State for model input_reader is next time: inf
+71:00:00:000
+State for model shipping is {"amount_clean":57400, "time_until_next_shipment":"01:00:00:000"}
+State for model input_reader is next time: inf
+72:00:00:000
+State for model shipping is {"amount_clean":56800, "time_until_next_shipment":"01:00:00:000"}
+State for model input_reader is next time: inf
+73:00:00:000
+State for model shipping is {"amount_clean":56200, "time_until_next_shipment":"01:00:00:000"}
+State for model input_reader is next time: inf
+74:00:00:000
+State for model shipping is {"amount_clean":55600, "time_until_next_shipment":"01:00:00:000"}
+State for model input_reader is next time: inf
+75:00:00:000
+State for model shipping is {"amount_clean":55000, "time_until_next_shipment":"01:00:00:000"}
+State for model input_reader is next time: inf
+76:00:00:000
+State for model shipping is {"amount_clean":54400, "time_until_next_shipment":"01:00:00:000"}
+State for model input_reader is next time: inf
+77:00:00:000
+State for model shipping is {"amount_clean":53800, "time_until_next_shipment":"01:00:00:000"}
+State for model input_reader is next time: inf
+78:00:00:000
+State for model shipping is {"amount_clean":53200, "time_until_next_shipment":"01:00:00:000"}
+State for model input_reader is next time: inf
+79:00:00:000
+State for model shipping is {"amount_clean":52600, "time_until_next_shipment":"01:00:00:000"}
+State for model input_reader is next time: inf
+80:00:00:000
+State for model shipping is {"amount_clean":52000, "time_until_next_shipment":"01:00:00:000"}
+State for model input_reader is next time: inf
+81:00:00:000
+State for model shipping is {"amount_clean":51400, "time_until_next_shipment":"01:00:00:000"}
+State for model input_reader is next time: inf
+82:00:00:000
+State for model shipping is {"amount_clean":50800, "time_until_next_shipment":"01:00:00:000"}
+State for model input_reader is next time: inf
+83:00:00:000
+State for model shipping is {"amount_clean":50200, "time_until_next_shipment":"01:00:00:000"}
+State for model input_reader is next time: inf
+84:00:00:000
+State for model shipping is {"amount_clean":49600, "time_until_next_shipment":"01:00:00:000"}
+State for model input_reader is next time: inf
+85:00:00:000
+State for model shipping is {"amount_clean":49000, "time_until_next_shipment":"01:00:00:000"}
+State for model input_reader is next time: inf
+86:00:00:000
+State for model shipping is {"amount_clean":48400, "time_until_next_shipment":"01:00:00:000"}
+State for model input_reader is next time: inf
+87:00:00:000
+State for model shipping is {"amount_clean":47800, "time_until_next_shipment":"01:00:00:000"}
+State for model input_reader is next time: inf
+88:00:00:000
+State for model shipping is {"amount_clean":47200, "time_until_next_shipment":"01:00:00:000"}
+State for model input_reader is next time: inf
+89:00:00:000
+State for model shipping is {"amount_clean":46600, "time_until_next_shipment":"01:00:00:000"}
+State for model input_reader is next time: inf
+90:00:00:000
+State for model shipping is {"amount_clean":46000, "time_until_next_shipment":"01:00:00:000"}
+State for model input_reader is next time: inf
+91:00:00:000
+State for model shipping is {"amount_clean":45400, "time_until_next_shipment":"01:00:00:000"}
+State for model input_reader is next time: inf
+92:00:00:000
+State for model shipping is {"amount_clean":44800, "time_until_next_shipment":"01:00:00:000"}
+State for model input_reader is next time: inf
+93:00:00:000
+State for model shipping is {"amount_clean":44200, "time_until_next_shipment":"01:00:00:000"}
+State for model input_reader is next time: inf
+94:00:00:000
+State for model shipping is {"amount_clean":43600, "time_until_next_shipment":"01:00:00:000"}
+State for model input_reader is next time: inf
+95:00:00:000
+State for model shipping is {"amount_clean":43000, "time_until_next_shipment":"01:00:00:000"}
+State for model input_reader is next time: inf
+96:00:00:000
+State for model shipping is {"amount_clean":42400, "time_until_next_shipment":"01:00:00:000"}
+State for model input_reader is next time: inf
+97:00:00:000
+State for model shipping is {"amount_clean":41800, "time_until_next_shipment":"01:00:00:000"}
+State for model input_reader is next time: inf
+98:00:00:000
+State for model shipping is {"amount_clean":41200, "time_until_next_shipment":"01:00:00:000"}
+State for model input_reader is next time: inf
+99:00:00:000
+State for model shipping is {"amount_clean":40600, "time_until_next_shipment":"01:00:00:000"}
+State for model input_reader is next time: inf
+100:00:00:000
+State for model shipping is {"amount_clean":40000, "time_until_next_shipment":"01:00:00:000"}
+State for model input_reader is next time: inf
+101:00:00:000
+State for model shipping is {"amount_clean":39400, "time_until_next_shipment":"01:00:00:000"}
+State for model input_reader is next time: inf
+102:00:00:000
+State for model shipping is {"amount_clean":38800, "time_until_next_shipment":"01:00:00:000"}
+State for model input_reader is next time: inf
+103:00:00:000
+State for model shipping is {"amount_clean":38200, "time_until_next_shipment":"01:00:00:000"}
+State for model input_reader is next time: inf
+104:00:00:000
+State for model shipping is {"amount_clean":37600, "time_until_next_shipment":"01:00:00:000"}
+State for model input_reader is next time: inf
+105:00:00:000
+State for model shipping is {"amount_clean":37000, "time_until_next_shipment":"01:00:00:000"}
+State for model input_reader is next time: inf
+106:00:00:000
+State for model shipping is {"amount_clean":36400, "time_until_next_shipment":"01:00:00:000"}
+State for model input_reader is next time: inf
+107:00:00:000
+State for model shipping is {"amount_clean":35800, "time_until_next_shipment":"01:00:00:000"}
+State for model input_reader is next time: inf
+108:00:00:000
+State for model shipping is {"amount_clean":35200, "time_until_next_shipment":"01:00:00:000"}
+State for model input_reader is next time: inf
+109:00:00:000
+State for model shipping is {"amount_clean":34600, "time_until_next_shipment":"01:00:00:000"}
+State for model input_reader is next time: inf
+110:00:00:000
+State for model shipping is {"amount_clean":34000, "time_until_next_shipment":"01:00:00:000"}
+State for model input_reader is next time: inf
+111:00:00:000
+State for model shipping is {"amount_clean":33400, "time_until_next_shipment":"01:00:00:000"}
+State for model input_reader is next time: inf
+112:00:00:000
+State for model shipping is {"amount_clean":32800, "time_until_next_shipment":"01:00:00:000"}
+State for model input_reader is next time: inf
+113:00:00:000
+State for model shipping is {"amount_clean":32200, "time_until_next_shipment":"01:00:00:000"}
+State for model input_reader is next time: inf
+114:00:00:000
+State for model shipping is {"amount_clean":31600, "time_until_next_shipment":"01:00:00:000"}
+State for model input_reader is next time: inf
+115:00:00:000
+State for model shipping is {"amount_clean":31000, "time_until_next_shipment":"01:00:00:000"}
+State for model input_reader is next time: inf
+116:00:00:000
+State for model shipping is {"amount_clean":30400, "time_until_next_shipment":"01:00:00:000"}
+State for model input_reader is next time: inf
+117:00:00:000
+State for model shipping is {"amount_clean":29800, "time_until_next_shipment":"01:00:00:000"}
+State for model input_reader is next time: inf
+118:00:00:000
+State for model shipping is {"amount_clean":29200, "time_until_next_shipment":"01:00:00:000"}
+State for model input_reader is next time: inf
+119:00:00:000
+State for model shipping is {"amount_clean":28600, "time_until_next_shipment":"01:00:00:000"}
+State for model input_reader is next time: inf
+120:00:00:000
+State for model shipping is {"amount_clean":28000, "time_until_next_shipment":"01:00:00:000"}
+State for model input_reader is next time: inf
+121:00:00:000
+State for model shipping is {"amount_clean":27400, "time_until_next_shipment":"01:00:00:000"}
+State for model input_reader is next time: inf
+122:00:00:000
+State for model shipping is {"amount_clean":26800, "time_until_next_shipment":"01:00:00:000"}
+State for model input_reader is next time: inf
+123:00:00:000
+State for model shipping is {"amount_clean":26200, "time_until_next_shipment":"01:00:00:000"}
+State for model input_reader is next time: inf
+124:00:00:000
+State for model shipping is {"amount_clean":25600, "time_until_next_shipment":"01:00:00:000"}
+State for model input_reader is next time: inf
+125:00:00:000
+State for model shipping is {"amount_clean":25000, "time_until_next_shipment":"01:00:00:000"}
+State for model input_reader is next time: inf
+126:00:00:000
+State for model shipping is {"amount_clean":24400, "time_until_next_shipment":"01:00:00:000"}
+State for model input_reader is next time: inf
+127:00:00:000
+State for model shipping is {"amount_clean":23800, "time_until_next_shipment":"01:00:00:000"}
+State for model input_reader is next time: inf
+128:00:00:000
+State for model shipping is {"amount_clean":23200, "time_until_next_shipment":"01:00:00:000"}
+State for model input_reader is next time: inf
+129:00:00:000
+State for model shipping is {"amount_clean":22600, "time_until_next_shipment":"01:00:00:000"}
+State for model input_reader is next time: inf
+130:00:00:000
+State for model shipping is {"amount_clean":22000, "time_until_next_shipment":"01:00:00:000"}
+State for model input_reader is next time: inf
+131:00:00:000
+State for model shipping is {"amount_clean":21400, "time_until_next_shipment":"01:00:00:000"}
+State for model input_reader is next time: inf
+132:00:00:000
+State for model shipping is {"amount_clean":20800, "time_until_next_shipment":"01:00:00:000"}
+State for model input_reader is next time: inf
+133:00:00:000
+State for model shipping is {"amount_clean":20200, "time_until_next_shipment":"01:00:00:000"}
+State for model input_reader is next time: inf
+134:00:00:000
+State for model shipping is {"amount_clean":19600, "time_until_next_shipment":"01:00:00:000"}
+State for model input_reader is next time: inf
+135:00:00:000
+State for model shipping is {"amount_clean":19000, "time_until_next_shipment":"01:00:00:000"}
+State for model input_reader is next time: inf
+136:00:00:000
+State for model shipping is {"amount_clean":18400, "time_until_next_shipment":"01:00:00:000"}
+State for model input_reader is next time: inf
+137:00:00:000
+State for model shipping is {"amount_clean":17800, "time_until_next_shipment":"01:00:00:000"}
+State for model input_reader is next time: inf
+138:00:00:000
+State for model shipping is {"amount_clean":17200, "time_until_next_shipment":"01:00:00:000"}
+State for model input_reader is next time: inf
+139:00:00:000
+State for model shipping is {"amount_clean":16600, "time_until_next_shipment":"01:00:00:000"}
+State for model input_reader is next time: inf
+140:00:00:000
+State for model shipping is {"amount_clean":16000, "time_until_next_shipment":"01:00:00:000"}
+State for model input_reader is next time: inf
+141:00:00:000
+State for model shipping is {"amount_clean":15400, "time_until_next_shipment":"01:00:00:000"}
+State for model input_reader is next time: inf
+142:00:00:000
+State for model shipping is {"amount_clean":14800, "time_until_next_shipment":"01:00:00:000"}
+State for model input_reader is next time: inf
+143:00:00:000
+State for model shipping is {"amount_clean":14200, "time_until_next_shipment":"01:00:00:000"}
+State for model input_reader is next time: inf
+144:00:00:000
+State for model shipping is {"amount_clean":13600, "time_until_next_shipment":"01:00:00:000"}
+State for model input_reader is next time: inf
+145:00:00:000
+State for model shipping is {"amount_clean":13000, "time_until_next_shipment":"01:00:00:000"}
+State for model input_reader is next time: inf
+146:00:00:000
+State for model shipping is {"amount_clean":12400, "time_until_next_shipment":"01:00:00:000"}
+State for model input_reader is next time: inf
+147:00:00:000
+State for model shipping is {"amount_clean":11800, "time_until_next_shipment":"01:00:00:000"}
+State for model input_reader is next time: inf
+148:00:00:000
+State for model shipping is {"amount_clean":11200, "time_until_next_shipment":"01:00:00:000"}
+State for model input_reader is next time: inf
+149:00:00:000
+State for model shipping is {"amount_clean":10600, "time_until_next_shipment":"01:00:00:000"}
+State for model input_reader is next time: inf
+150:00:00:000
+State for model shipping is {"amount_clean":10000, "time_until_next_shipment":"01:00:00:000"}
+State for model input_reader is next time: inf
+151:00:00:000
+State for model shipping is {"amount_clean":9400, "time_until_next_shipment":"01:00:00:000"}
+State for model input_reader is next time: inf
+152:00:00:000
+State for model shipping is {"amount_clean":8800, "time_until_next_shipment":"01:00:00:000"}
+State for model input_reader is next time: inf
+153:00:00:000
+State for model shipping is {"amount_clean":8200, "time_until_next_shipment":"01:00:00:000"}
+State for model input_reader is next time: inf
+154:00:00:000
+State for model shipping is {"amount_clean":7600, "time_until_next_shipment":"01:00:00:000"}
+State for model input_reader is next time: inf
+155:00:00:000
+State for model shipping is {"amount_clean":7000, "time_until_next_shipment":"01:00:00:000"}
+State for model input_reader is next time: inf
+156:00:00:000
+State for model shipping is {"amount_clean":6400, "time_until_next_shipment":"01:00:00:000"}
+State for model input_reader is next time: inf
+157:00:00:000
+State for model shipping is {"amount_clean":5800, "time_until_next_shipment":"01:00:00:000"}
+State for model input_reader is next time: inf
+158:00:00:000
+State for model shipping is {"amount_clean":5200, "time_until_next_shipment":"01:00:00:000"}
+State for model input_reader is next time: inf
+159:00:00:000
+State for model shipping is {"amount_clean":4600, "time_until_next_shipment":"01:00:00:000"}
+State for model input_reader is next time: inf
+160:00:00:000
+State for model shipping is {"amount_clean":4000, "time_until_next_shipment":"01:00:00:000"}
+State for model input_reader is next time: inf
+161:00:00:000
+State for model shipping is {"amount_clean":3400, "time_until_next_shipment":"01:00:00:000"}
+State for model input_reader is next time: inf
+162:00:00:000
+State for model shipping is {"amount_clean":2800, "time_until_next_shipment":"01:00:00:000"}
+State for model input_reader is next time: inf
+163:00:00:000
+State for model shipping is {"amount_clean":2200, "time_until_next_shipment":"01:00:00:000"}
+State for model input_reader is next time: inf
+164:00:00:000
+State for model shipping is {"amount_clean":1600, "time_until_next_shipment":"01:00:00:000"}
+State for model input_reader is next time: inf
+165:00:00:000
+State for model shipping is {"amount_clean":1000, "time_until_next_shipment":"01:00:00:000"}
+State for model input_reader is next time: inf
+166:00:00:000
+State for model shipping is {"amount_clean":400, "time_until_next_shipment":"01:00:00:000"}
+State for model input_reader is next time: inf
+167:00:00:000
+State for model shipping is {"amount_clean":0, "time_until_next_shipment":"01:00:00:000"}
+State for model input_reader is next time: inf

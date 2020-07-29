@@ -1,0 +1,342 @@
+00:00:00:000
+State for model hospital is {"amount_clean":0, "amount_dirty":0, "outage":0, "time_until_next_shipment":"00:00:00:000"}
+State for model input_reader is next time: 00:00:00:000
+00:00:00:000
+State for model hospital is {"amount_clean":0, "amount_dirty":0, "outage":781, "time_until_next_shipment":"01:30:00:000"}
+State for model input_reader is next time: 00:00:00:000
+00:00:00:000
+State for model hospital is {"amount_clean":10000, "amount_dirty":0, "outage":781, "time_until_next_shipment":"01:30:00:000"}
+State for model input_reader is next time: inf
+01:30:00:000
+State for model hospital is {"amount_clean":9288, "amount_dirty":712, "outage":0, "time_until_next_shipment":"01:30:00:000"}
+State for model input_reader is next time: inf
+03:00:00:000
+State for model hospital is {"amount_clean":8382, "amount_dirty":906, "outage":0, "time_until_next_shipment":"01:30:00:000"}
+State for model input_reader is next time: inf
+04:30:00:000
+State for model hospital is {"amount_clean":7644, "amount_dirty":738, "outage":0, "time_until_next_shipment":"01:30:00:000"}
+State for model input_reader is next time: inf
+06:00:00:000
+State for model hospital is {"amount_clean":6906, "amount_dirty":738, "outage":0, "time_until_next_shipment":"01:30:00:000"}
+State for model input_reader is next time: inf
+07:30:00:000
+State for model hospital is {"amount_clean":6133, "amount_dirty":773, "outage":0, "time_until_next_shipment":"01:30:00:000"}
+State for model input_reader is next time: inf
+09:00:00:000
+State for model hospital is {"amount_clean":5375, "amount_dirty":758, "outage":0, "time_until_next_shipment":"01:30:00:000"}
+State for model input_reader is next time: inf
+10:30:00:000
+State for model hospital is {"amount_clean":4630, "amount_dirty":745, "outage":0, "time_until_next_shipment":"01:30:00:000"}
+State for model input_reader is next time: inf
+12:00:00:000
+State for model hospital is {"amount_clean":3878, "amount_dirty":752, "outage":0, "time_until_next_shipment":"01:30:00:000"}
+State for model input_reader is next time: inf
+13:30:00:000
+State for model hospital is {"amount_clean":3017, "amount_dirty":861, "outage":0, "time_until_next_shipment":"01:30:00:000"}
+State for model input_reader is next time: inf
+15:00:00:000
+State for model hospital is {"amount_clean":2242, "amount_dirty":775, "outage":0, "time_until_next_shipment":"01:30:00:000"}
+State for model input_reader is next time: inf
+16:30:00:000
+State for model hospital is {"amount_clean":1462, "amount_dirty":780, "outage":0, "time_until_next_shipment":"01:30:00:000"}
+State for model input_reader is next time: inf
+18:00:00:000
+State for model hospital is {"amount_clean":583, "amount_dirty":879, "outage":0, "time_until_next_shipment":"01:30:00:000"}
+State for model input_reader is next time: inf
+19:30:00:000
+State for model hospital is {"amount_clean":0, "amount_dirty":583, "outage":101, "time_until_next_shipment":"01:30:00:000"}
+State for model input_reader is next time: inf
+21:00:00:000
+State for model hospital is {"amount_clean":0, "amount_dirty":0, "outage":792, "time_until_next_shipment":"01:30:00:000"}
+State for model input_reader is next time: inf
+22:30:00:000
+State for model hospital is {"amount_clean":0, "amount_dirty":0, "outage":670, "time_until_next_shipment":"01:30:00:000"}
+State for model input_reader is next time: inf
+24:00:00:000
+State for model hospital is {"amount_clean":0, "amount_dirty":0, "outage":830, "time_until_next_shipment":"01:30:00:000"}
+State for model input_reader is next time: inf
+25:30:00:000
+State for model hospital is {"amount_clean":0, "amount_dirty":0, "outage":809, "time_until_next_shipment":"01:30:00:000"}
+State for model input_reader is next time: inf
+27:00:00:000
+State for model hospital is {"amount_clean":0, "amount_dirty":0, "outage":881, "time_until_next_shipment":"01:30:00:000"}
+State for model input_reader is next time: inf
+28:30:00:000
+State for model hospital is {"amount_clean":0, "amount_dirty":0, "outage":752, "time_until_next_shipment":"01:30:00:000"}
+State for model input_reader is next time: inf
+30:00:00:000
+State for model hospital is {"amount_clean":0, "amount_dirty":0, "outage":786, "time_until_next_shipment":"01:30:00:000"}
+State for model input_reader is next time: inf
+31:30:00:000
+State for model hospital is {"amount_clean":0, "amount_dirty":0, "outage":852, "time_until_next_shipment":"01:30:00:000"}
+State for model input_reader is next time: inf
+33:00:00:000
+State for model hospital is {"amount_clean":0, "amount_dirty":0, "outage":811, "time_until_next_shipment":"01:30:00:000"}
+State for model input_reader is next time: inf
+34:30:00:000
+State for model hospital is {"amount_clean":0, "amount_dirty":0, "outage":814, "time_until_next_shipment":"01:30:00:000"}
+State for model input_reader is next time: inf
+36:00:00:000
+State for model hospital is {"amount_clean":0, "amount_dirty":0, "outage":827, "time_until_next_shipment":"01:30:00:000"}
+State for model input_reader is next time: inf
+37:30:00:000
+State for model hospital is {"amount_clean":0, "amount_dirty":0, "outage":787, "time_until_next_shipment":"01:30:00:000"}
+State for model input_reader is next time: inf
+39:00:00:000
+State for model hospital is {"amount_clean":0, "amount_dirty":0, "outage":846, "time_until_next_shipment":"01:30:00:000"}
+State for model input_reader is next time: inf
+40:30:00:000
+State for model hospital is {"amount_clean":0, "amount_dirty":0, "outage":829, "time_until_next_shipment":"01:30:00:000"}
+State for model input_reader is next time: inf
+42:00:00:000
+State for model hospital is {"amount_clean":0, "amount_dirty":0, "outage":791, "time_until_next_shipment":"01:30:00:000"}
+State for model input_reader is next time: inf
+43:30:00:000
+State for model hospital is {"amount_clean":0, "amount_dirty":0, "outage":838, "time_until_next_shipment":"01:30:00:000"}
+State for model input_reader is next time: inf
+45:00:00:000
+State for model hospital is {"amount_clean":0, "amount_dirty":0, "outage":749, "time_until_next_shipment":"01:30:00:000"}
+State for model input_reader is next time: inf
+46:30:00:000
+State for model hospital is {"amount_clean":0, "amount_dirty":0, "outage":842, "time_until_next_shipment":"01:30:00:000"}
+State for model input_reader is next time: inf
+48:00:00:000
+State for model hospital is {"amount_clean":0, "amount_dirty":0, "outage":756, "time_until_next_shipment":"01:30:00:000"}
+State for model input_reader is next time: inf
+49:30:00:000
+State for model hospital is {"amount_clean":0, "amount_dirty":0, "outage":877, "time_until_next_shipment":"01:30:00:000"}
+State for model input_reader is next time: inf
+51:00:00:000
+State for model hospital is {"amount_clean":0, "amount_dirty":0, "outage":747, "time_until_next_shipment":"01:30:00:000"}
+State for model input_reader is next time: inf
+52:30:00:000
+State for model hospital is {"amount_clean":0, "amount_dirty":0, "outage":835, "time_until_next_shipment":"01:30:00:000"}
+State for model input_reader is next time: inf
+54:00:00:000
+State for model hospital is {"amount_clean":0, "amount_dirty":0, "outage":857, "time_until_next_shipment":"01:30:00:000"}
+State for model input_reader is next time: inf
+55:30:00:000
+State for model hospital is {"amount_clean":0, "amount_dirty":0, "outage":834, "time_until_next_shipment":"01:30:00:000"}
+State for model input_reader is next time: inf
+57:00:00:000
+State for model hospital is {"amount_clean":0, "amount_dirty":0, "outage":762, "time_until_next_shipment":"01:30:00:000"}
+State for model input_reader is next time: inf
+58:30:00:000
+State for model hospital is {"amount_clean":0, "amount_dirty":0, "outage":836, "time_until_next_shipment":"01:30:00:000"}
+State for model input_reader is next time: inf
+60:00:00:000
+State for model hospital is {"amount_clean":0, "amount_dirty":0, "outage":748, "time_until_next_shipment":"01:30:00:000"}
+State for model input_reader is next time: inf
+61:30:00:000
+State for model hospital is {"amount_clean":0, "amount_dirty":0, "outage":709, "time_until_next_shipment":"01:30:00:000"}
+State for model input_reader is next time: inf
+63:00:00:000
+State for model hospital is {"amount_clean":0, "amount_dirty":0, "outage":877, "time_until_next_shipment":"01:30:00:000"}
+State for model input_reader is next time: inf
+64:30:00:000
+State for model hospital is {"amount_clean":0, "amount_dirty":0, "outage":755, "time_until_next_shipment":"01:30:00:000"}
+State for model input_reader is next time: inf
+66:00:00:000
+State for model hospital is {"amount_clean":0, "amount_dirty":0, "outage":821, "time_until_next_shipment":"01:30:00:000"}
+State for model input_reader is next time: inf
+67:30:00:000
+State for model hospital is {"amount_clean":0, "amount_dirty":0, "outage":806, "time_until_next_shipment":"01:30:00:000"}
+State for model input_reader is next time: inf
+69:00:00:000
+State for model hospital is {"amount_clean":0, "amount_dirty":0, "outage":784, "time_until_next_shipment":"01:30:00:000"}
+State for model input_reader is next time: inf
+70:30:00:000
+State for model hospital is {"amount_clean":0, "amount_dirty":0, "outage":846, "time_until_next_shipment":"01:30:00:000"}
+State for model input_reader is next time: inf
+72:00:00:000
+State for model hospital is {"amount_clean":0, "amount_dirty":0, "outage":819, "time_until_next_shipment":"01:30:00:000"}
+State for model input_reader is next time: inf
+73:30:00:000
+State for model hospital is {"amount_clean":0, "amount_dirty":0, "outage":760, "time_until_next_shipment":"01:30:00:000"}
+State for model input_reader is next time: inf
+75:00:00:000
+State for model hospital is {"amount_clean":0, "amount_dirty":0, "outage":816, "time_until_next_shipment":"01:30:00:000"}
+State for model input_reader is next time: inf
+76:30:00:000
+State for model hospital is {"amount_clean":0, "amount_dirty":0, "outage":788, "time_until_next_shipment":"01:30:00:000"}
+State for model input_reader is next time: inf
+78:00:00:000
+State for model hospital is {"amount_clean":0, "amount_dirty":0, "outage":786, "time_until_next_shipment":"01:30:00:000"}
+State for model input_reader is next time: inf
+79:30:00:000
+State for model hospital is {"amount_clean":0, "amount_dirty":0, "outage":723, "time_until_next_shipment":"01:30:00:000"}
+State for model input_reader is next time: inf
+81:00:00:000
+State for model hospital is {"amount_clean":0, "amount_dirty":0, "outage":730, "time_until_next_shipment":"01:30:00:000"}
+State for model input_reader is next time: inf
+82:30:00:000
+State for model hospital is {"amount_clean":0, "amount_dirty":0, "outage":795, "time_until_next_shipment":"01:30:00:000"}
+State for model input_reader is next time: inf
+84:00:00:000
+State for model hospital is {"amount_clean":0, "amount_dirty":0, "outage":807, "time_until_next_shipment":"01:30:00:000"}
+State for model input_reader is next time: inf
+85:30:00:000
+State for model hospital is {"amount_clean":0, "amount_dirty":0, "outage":905, "time_until_next_shipment":"01:30:00:000"}
+State for model input_reader is next time: inf
+87:00:00:000
+State for model hospital is {"amount_clean":0, "amount_dirty":0, "outage":692, "time_until_next_shipment":"01:30:00:000"}
+State for model input_reader is next time: inf
+88:30:00:000
+State for model hospital is {"amount_clean":0, "amount_dirty":0, "outage":809, "time_until_next_shipment":"01:30:00:000"}
+State for model input_reader is next time: inf
+90:00:00:000
+State for model hospital is {"amount_clean":0, "amount_dirty":0, "outage":760, "time_until_next_shipment":"01:30:00:000"}
+State for model input_reader is next time: inf
+91:30:00:000
+State for model hospital is {"amount_clean":0, "amount_dirty":0, "outage":867, "time_until_next_shipment":"01:30:00:000"}
+State for model input_reader is next time: inf
+93:00:00:000
+State for model hospital is {"amount_clean":0, "amount_dirty":0, "outage":831, "time_until_next_shipment":"01:30:00:000"}
+State for model input_reader is next time: inf
+94:30:00:000
+State for model hospital is {"amount_clean":0, "amount_dirty":0, "outage":850, "time_until_next_shipment":"01:30:00:000"}
+State for model input_reader is next time: inf
+96:00:00:000
+State for model hospital is {"amount_clean":0, "amount_dirty":0, "outage":841, "time_until_next_shipment":"01:30:00:000"}
+State for model input_reader is next time: inf
+97:30:00:000
+State for model hospital is {"amount_clean":0, "amount_dirty":0, "outage":870, "time_until_next_shipment":"01:30:00:000"}
+State for model input_reader is next time: inf
+99:00:00:000
+State for model hospital is {"amount_clean":0, "amount_dirty":0, "outage":836, "time_until_next_shipment":"01:30:00:000"}
+State for model input_reader is next time: inf
+100:30:00:000
+State for model hospital is {"amount_clean":0, "amount_dirty":0, "outage":831, "time_until_next_shipment":"01:30:00:000"}
+State for model input_reader is next time: inf
+102:00:00:000
+State for model hospital is {"amount_clean":0, "amount_dirty":0, "outage":860, "time_until_next_shipment":"01:30:00:000"}
+State for model input_reader is next time: inf
+103:30:00:000
+State for model hospital is {"amount_clean":0, "amount_dirty":0, "outage":753, "time_until_next_shipment":"01:30:00:000"}
+State for model input_reader is next time: inf
+105:00:00:000
+State for model hospital is {"amount_clean":0, "amount_dirty":0, "outage":811, "time_until_next_shipment":"01:30:00:000"}
+State for model input_reader is next time: inf
+106:30:00:000
+State for model hospital is {"amount_clean":0, "amount_dirty":0, "outage":789, "time_until_next_shipment":"01:30:00:000"}
+State for model input_reader is next time: inf
+108:00:00:000
+State for model hospital is {"amount_clean":0, "amount_dirty":0, "outage":818, "time_until_next_shipment":"01:30:00:000"}
+State for model input_reader is next time: inf
+109:30:00:000
+State for model hospital is {"amount_clean":0, "amount_dirty":0, "outage":818, "time_until_next_shipment":"01:30:00:000"}
+State for model input_reader is next time: inf
+111:00:00:000
+State for model hospital is {"amount_clean":0, "amount_dirty":0, "outage":798, "time_until_next_shipment":"01:30:00:000"}
+State for model input_reader is next time: inf
+112:30:00:000
+State for model hospital is {"amount_clean":0, "amount_dirty":0, "outage":752, "time_until_next_shipment":"01:30:00:000"}
+State for model input_reader is next time: inf
+114:00:00:000
+State for model hospital is {"amount_clean":0, "amount_dirty":0, "outage":830, "time_until_next_shipment":"01:30:00:000"}
+State for model input_reader is next time: inf
+115:30:00:000
+State for model hospital is {"amount_clean":0, "amount_dirty":0, "outage":721, "time_until_next_shipment":"01:30:00:000"}
+State for model input_reader is next time: inf
+117:00:00:000
+State for model hospital is {"amount_clean":0, "amount_dirty":0, "outage":829, "time_until_next_shipment":"01:30:00:000"}
+State for model input_reader is next time: inf
+118:30:00:000
+State for model hospital is {"amount_clean":0, "amount_dirty":0, "outage":770, "time_until_next_shipment":"01:30:00:000"}
+State for model input_reader is next time: inf
+120:00:00:000
+State for model hospital is {"amount_clean":0, "amount_dirty":0, "outage":749, "time_until_next_shipment":"01:30:00:000"}
+State for model input_reader is next time: inf
+121:30:00:000
+State for model hospital is {"amount_clean":0, "amount_dirty":0, "outage":813, "time_until_next_shipment":"01:30:00:000"}
+State for model input_reader is next time: inf
+123:00:00:000
+State for model hospital is {"amount_clean":0, "amount_dirty":0, "outage":800, "time_until_next_shipment":"01:30:00:000"}
+State for model input_reader is next time: inf
+124:30:00:000
+State for model hospital is {"amount_clean":0, "amount_dirty":0, "outage":728, "time_until_next_shipment":"01:30:00:000"}
+State for model input_reader is next time: inf
+126:00:00:000
+State for model hospital is {"amount_clean":0, "amount_dirty":0, "outage":792, "time_until_next_shipment":"01:30:00:000"}
+State for model input_reader is next time: inf
+127:30:00:000
+State for model hospital is {"amount_clean":0, "amount_dirty":0, "outage":898, "time_until_next_shipment":"01:30:00:000"}
+State for model input_reader is next time: inf
+129:00:00:000
+State for model hospital is {"amount_clean":0, "amount_dirty":0, "outage":912, "time_until_next_shipment":"01:30:00:000"}
+State for model input_reader is next time: inf
+130:30:00:000
+State for model hospital is {"amount_clean":0, "amount_dirty":0, "outage":774, "time_until_next_shipment":"01:30:00:000"}
+State for model input_reader is next time: inf
+132:00:00:000
+State for model hospital is {"amount_clean":0, "amount_dirty":0, "outage":788, "time_until_next_shipment":"01:30:00:000"}
+State for model input_reader is next time: inf
+133:30:00:000
+State for model hospital is {"amount_clean":0, "amount_dirty":0, "outage":836, "time_until_next_shipment":"01:30:00:000"}
+State for model input_reader is next time: inf
+135:00:00:000
+State for model hospital is {"amount_clean":0, "amount_dirty":0, "outage":865, "time_until_next_shipment":"01:30:00:000"}
+State for model input_reader is next time: inf
+136:30:00:000
+State for model hospital is {"amount_clean":0, "amount_dirty":0, "outage":786, "time_until_next_shipment":"01:30:00:000"}
+State for model input_reader is next time: inf
+138:00:00:000
+State for model hospital is {"amount_clean":0, "amount_dirty":0, "outage":804, "time_until_next_shipment":"01:30:00:000"}
+State for model input_reader is next time: inf
+139:30:00:000
+State for model hospital is {"amount_clean":0, "amount_dirty":0, "outage":799, "time_until_next_shipment":"01:30:00:000"}
+State for model input_reader is next time: inf
+141:00:00:000
+State for model hospital is {"amount_clean":0, "amount_dirty":0, "outage":772, "time_until_next_shipment":"01:30:00:000"}
+State for model input_reader is next time: inf
+142:30:00:000
+State for model hospital is {"amount_clean":0, "amount_dirty":0, "outage":718, "time_until_next_shipment":"01:30:00:000"}
+State for model input_reader is next time: inf
+144:00:00:000
+State for model hospital is {"amount_clean":0, "amount_dirty":0, "outage":756, "time_until_next_shipment":"01:30:00:000"}
+State for model input_reader is next time: inf
+145:30:00:000
+State for model hospital is {"amount_clean":0, "amount_dirty":0, "outage":768, "time_until_next_shipment":"01:30:00:000"}
+State for model input_reader is next time: inf
+147:00:00:000
+State for model hospital is {"amount_clean":0, "amount_dirty":0, "outage":822, "time_until_next_shipment":"01:30:00:000"}
+State for model input_reader is next time: inf
+148:30:00:000
+State for model hospital is {"amount_clean":0, "amount_dirty":0, "outage":746, "time_until_next_shipment":"01:30:00:000"}
+State for model input_reader is next time: inf
+150:00:00:000
+State for model hospital is {"amount_clean":0, "amount_dirty":0, "outage":826, "time_until_next_shipment":"01:30:00:000"}
+State for model input_reader is next time: inf
+151:30:00:000
+State for model hospital is {"amount_clean":0, "amount_dirty":0, "outage":764, "time_until_next_shipment":"01:30:00:000"}
+State for model input_reader is next time: inf
+153:00:00:000
+State for model hospital is {"amount_clean":0, "amount_dirty":0, "outage":761, "time_until_next_shipment":"01:30:00:000"}
+State for model input_reader is next time: inf
+154:30:00:000
+State for model hospital is {"amount_clean":0, "amount_dirty":0, "outage":760, "time_until_next_shipment":"01:30:00:000"}
+State for model input_reader is next time: inf
+156:00:00:000
+State for model hospital is {"amount_clean":0, "amount_dirty":0, "outage":838, "time_until_next_shipment":"01:30:00:000"}
+State for model input_reader is next time: inf
+157:30:00:000
+State for model hospital is {"amount_clean":0, "amount_dirty":0, "outage":777, "time_until_next_shipment":"01:30:00:000"}
+State for model input_reader is next time: inf
+159:00:00:000
+State for model hospital is {"amount_clean":0, "amount_dirty":0, "outage":814, "time_until_next_shipment":"01:30:00:000"}
+State for model input_reader is next time: inf
+160:30:00:000
+State for model hospital is {"amount_clean":0, "amount_dirty":0, "outage":819, "time_until_next_shipment":"01:30:00:000"}
+State for model input_reader is next time: inf
+162:00:00:000
+State for model hospital is {"amount_clean":0, "amount_dirty":0, "outage":852, "time_until_next_shipment":"01:30:00:000"}
+State for model input_reader is next time: inf
+163:30:00:000
+State for model hospital is {"amount_clean":0, "amount_dirty":0, "outage":808, "time_until_next_shipment":"01:30:00:000"}
+State for model input_reader is next time: inf
+165:00:00:000
+State for model hospital is {"amount_clean":0, "amount_dirty":0, "outage":724, "time_until_next_shipment":"01:30:00:000"}
+State for model input_reader is next time: inf
+166:30:00:000
+State for model hospital is {"amount_clean":0, "amount_dirty":0, "outage":928, "time_until_next_shipment":"01:30:00:000"}
+State for model input_reader is next time: inf
